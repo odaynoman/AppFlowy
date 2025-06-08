@@ -153,7 +153,7 @@
     "leaveCurrentWorkspacePrompt": "هل أنت متأكد أنك تريد مغادرة مساحة العمل الحالية؟"
   },
   "shareAction": {
-    "buttonText": "مشاركه",
+    "buttonText": "مشاركة",
     "workInProgress": "قريباً",
     "markdown": "Markdown",
     "html": "HTML",
@@ -523,7 +523,7 @@
     "backToHome": "العودة إلى الصفحة الرئيسية",
     "viewing": "عرض",
     "editing": "تحرير",
-    "gotIt": "فهمتها",
+    "gotIt": "فهمت",
     "retry": "إعادة المحاولة",
     "uploadFailed": "فشل الرفع.",
     "copyLinkOriginal": "نسخ الرابط إلى الأصل",
